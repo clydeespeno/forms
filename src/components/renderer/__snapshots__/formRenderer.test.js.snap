@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`formRenderer renders a layout with fields 1`] = `
+<div
+  className="layout"
+>
+  <div
+    id="input-input-input"
+  >
+    <div>
+      input
+    </div>
+    <div
+      className="component"
+    >
+      <div>
+        inputed
+      </div>
+    </div>
+  </div>
+  <div
+    id="select-select-select"
+  >
+    <div>
+      select
+    </div>
+    <div
+      className="component"
+    >
+      <div>
+        selected
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`formRenderer renders an empty layout 1`] = `
+<div
+  className="layout"
+/>
+`;

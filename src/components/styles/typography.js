@@ -1,0 +1,7 @@
+export const h1 = '36px'
+export const h2 = '30px'
+export const h3 = '24px'
+export const h4 = '18px'
+export const h5 = '16px'
+export const h6 = '14px'
+export const h7 = '12px'
